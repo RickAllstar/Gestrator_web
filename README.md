@@ -7,4 +7,4 @@ Um sistema de gestão empresarial em fase de desenvolvimento.
  Acesse nossa Intranet segura para visualizar, priorizar e concluir tarefas facilmente.
  Com um Dashboard abrangente e notificações automáticas, promovemos uma abordagem colaborativa que impulsiona o desempenho organizacional.
 
-
+![ logo](file:///C:/Users/Henrique/Documents/GIT/Gestrator/Gestrator-projeto/icon/gestrator-logo.png)
